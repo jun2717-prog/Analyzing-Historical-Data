@@ -36,8 +36,8 @@ This contrast is the core takeaway of the dashboard: **stock price and revenue d
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/<jun2717-prog>/<Analyzing-Historical-Data>.git
+   cd <Analyzing-Historical-Data>
    ```
 
 2. Install the required libraries:
